@@ -1,10 +1,19 @@
 ## Hi there, I am Mathieu 👋
 
-# About me
+### About me
+I started learning about coding back in 2012 as part of my curriculum in uni, but it is only in 2021 that I decided to dive into it. I joined a tech bootcamp called [The Hacking Project](https://www.thehackingproject.org/) where i learned the basics: HTML/CSS/JS as well as Ruby and Ruby on Rails, and React.
+<br>
+I am currently looking for missions as a freelance in web development. 
+
+
+### Projects I have worked on
+  - [Feedtruck](https://feedtruck.herokuapp.com/)
+  - [FollowNut'](https://follownut.herokuapp.com/)
+
 
 ### How to reach me
 <div>
-  <a href="mathieuyl.paradis@gmail.com" target="_blank">
+  <a href="mailto:mathieuyl.paradis@gmail.com" target="_blank">
     <img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="Gmail" align="left" width="50" height="50">
   </a>
   <a href="https://www.linkedin.com/in/mathieu-p-26593498/" target="_blank">
