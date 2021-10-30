@@ -1,7 +1,7 @@
 ## Hi there, I am Mathieu 👋
 
 ### About me
-I started learning about coding back in 2012 as part of my curriculum in uni, but it is only in 2021 that I decided to dive into it. I joined a tech bootcamp called [The Hacking Project](https://www.thehackingproject.org/) where i learned the basics: HTML/CSS/JS as well as Ruby and Ruby on Rails, and React.
+I started learning about coding back in 2012 as part of my curriculum in uni, but it is only in 2021 that I decided to dive into it. I joined a tech bootcamp called [The Hacking Project](https://www.thehackingproject.org/) where I learned the basics: HTML/CSS/JS as well as Ruby and Ruby on Rails, and React.
 <br>
 I am currently looking for missions as a freelance in web development. 
 
