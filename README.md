@@ -9,6 +9,9 @@ I am currently looking for missions as a freelance in web development.
 ### Projects I have worked on
   - [Feedtruck](https://feedtruck.herokuapp.com/)
   - [FollowNut'](https://follownut.herokuapp.com/)
+  - [Move and Groove](https://moove-and-groove.herokuapp.com/)
+  - [Boulder Bike Tour](https://co-boulder-bike-tour.herokuapp.com/)
+  - [Helping Hand](https://helpping-hand.herokuapp.com/)
 
 
 ### How to reach me
