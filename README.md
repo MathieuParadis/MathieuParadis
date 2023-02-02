@@ -10,8 +10,8 @@ I am currently looking for a job as web developer, preferably in a front end rol
 ### Projects I have worked on
   - [Feedtruck](https://feedtruck.herokuapp.com/)
   - [FollowNut'](https://follownut.herokuapp.com/)
-  - [Move and Groove](https://moove-and-groove.herokuapp.com/)
-  - [Boulder Bike Tour](https://co-boulder-bike-tour.herokuapp.com/)
+  - [Move and Groove](https://github.com/MathieuParadis/fitness_tracker)
+  - [Boulder Bike Tour](https://github.com/MathieuParadis/boulder-bike-tour)
   - [Helping Hand](https://helpping-hand.herokuapp.com/)
 
 
