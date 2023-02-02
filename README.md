@@ -8,11 +8,11 @@ In November 2021 I enrolled in the full stack developer path at [Open Classrooms
 I am currently looking for a job as web developer, preferably in a front end role. 
 
 ### Projects I have worked on
-  - [Feedtruck](https://feedtruck.herokuapp.com/)
-  - [FollowNut'](https://follownut.herokuapp.com/)
+  - [Feedtruck](https://github.com/MathieuParadis/Feedtruck)
+  - [FollowNut'](https://github.com/MathieuParadis/follownut_front)
   - [Move and Groove](https://github.com/MathieuParadis/fitness_tracker)
   - [Boulder Bike Tour](https://github.com/MathieuParadis/boulder-bike-tour)
-  - [Helping Hand](https://helpping-hand.herokuapp.com/)
+  - [Helping Hand](https://github.com/MathieuParadis/helping-hand)
 
 
 ### How to reach me
