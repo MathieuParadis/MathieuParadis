@@ -9,7 +9,7 @@ I am currently looking for a job as web developer, preferably in a front end rol
 
 ### Projects I have worked on
   - [Feedtruck](https://github.com/MathieuParadis/Feedtruck)
-  - [FollowNut'](https://github.com/MathieuParadis/follownut_front)
+  - [FollowNut'](https://github.com/MathieuParadis/FollowNut)
   - [Move and Groove](https://github.com/MathieuParadis/fitness_tracker)
   - [Boulder Bike Tour](https://github.com/MathieuParadis/boulder-bike-tour)
   - [Helping Hand](https://github.com/MathieuParadis/helping-hand)
