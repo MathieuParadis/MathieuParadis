@@ -7,6 +7,8 @@ Passionate Full Stack Developer with a unique blend of front-end proficiency and
 <br>
 Open to exciting new opportunities in the field of web development. Currently exploring roles that will leverage my skills and passion for innovative projects. Eager to contribute my expertise to a dynamic team and take on fresh challenges in the ever-evolving tech landscape.
 
+<br>
+
 ## Projects I have worked on
   - [Feedtruck](https://github.com/MathieuParadis/Feedtruck)
   - [FollowNut'](https://github.com/MathieuParadis/FollowNut)
@@ -14,6 +16,7 @@ Open to exciting new opportunities in the field of web development. Currently ex
   - [Boulder Bike Tour](https://github.com/MathieuParadis/boulder-bike-tour)
   - [Helping Hand](https://github.com/MathieuParadis/helping-hand)
 
+<br>
 
 ## How to reach me
 <div>
@@ -32,6 +35,7 @@ Open to exciting new opportunities in the field of web development. Currently ex
 </div>
 <br><br>
 
+<br>
 
 ### Languages and Tools
 <div>
