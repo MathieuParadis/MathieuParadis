@@ -3,7 +3,6 @@
 ## About me
 Passionate Full Stack Developer with a unique blend of front-end proficiency and a foundation in materials engineering, complemented by a bachelor's degree in web development. Specializing in crafting compelling web application interfaces that seamlessly marry design and functionality. My journey includes the successful completion of various bootcamps and over 1.5 years of immersive, hands-on experience, honing my skills across a spectrum of web development languages and frameworks.
 <br>
-My adaptability to emerging technologies is a testament to my commitment to staying ahead in the dynamic world of development. Eager to take on challenging roles within innovative teams, I am driven to contribute my skills to projects that push boundaries and foster success. Let's collaborate and bring cutting-edge ideas to life!
 <br>
 Open to exciting new opportunities in the field of web development. Currently exploring roles that will leverage my skills and passion for innovative projects. Eager to contribute my expertise to a dynamic team and take on fresh challenges in the ever-evolving tech landscape.
 
