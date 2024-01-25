@@ -1,4 +1,5 @@
 # Hi there, I am Mathieu 👋
+![Banner](https://github.com/MathieuParadis/images/blob/main/images/Banner.png?raw=true)
 
 ## About me
 Passionate Full Stack Developer with a unique blend of front-end proficiency and a foundation in materials engineering, complemented by a bachelor's degree in web development. Specializing in crafting compelling web application interfaces that seamlessly marry design and functionality. My journey includes the successful completion of various bootcamps and over 1.5 years of immersive, hands-on experience, honing my skills across a spectrum of web development languages and frameworks.
