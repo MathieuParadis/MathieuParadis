@@ -1,11 +1,11 @@
-## Hi there, I am Mathieu 👋
+# Hi there, I am Mathieu 👋
 
-### About me
-I started learning about coding back in 2012 as part of my curriculum in uni, but it is only in 2021 that I decided to dive into it. I joined a tech bootcamp called [The Hacking Project](https://www.thehackingproject.org/) where I learned the basics: HTML/CSS/JS as well as Ruby and Ruby on Rails, and React.
+## About me
+Passionate Full Stack Developer with a unique blend of front-end proficiency and a foundation in materials engineering, complemented by a bachelor's degree in web development. Specializing in crafting compelling web application interfaces that seamlessly marry design and functionality. My journey includes the successful completion of various bootcamps and over 1.5 years of immersive, hands-on experience, honing my skills across a spectrum of web development languages and frameworks.
 <br>
-In November 2021 I enrolled in the full stack developer path at [Open Classrooms](https://openclassrooms.com/en/), to consolidate my skills, and I will graduate in June 2022.
+My adaptability to emerging technologies is a testament to my commitment to staying ahead in the dynamic world of development. Eager to take on challenging roles within innovative teams, I am driven to contribute my skills to projects that push boundaries and foster success. Let's collaborate and bring cutting-edge ideas to life!
 <br>
-I am currently looking for a job as web developer, preferably in a front end role. 
+Open to exciting new opportunities in the field of web development. Currently exploring roles that will leverage my skills and passion for innovative projects. Eager to contribute my expertise to a dynamic team and take on fresh challenges in the ever-evolving tech landscape.
 
 ### Projects I have worked on
   - [Feedtruck](https://github.com/MathieuParadis/Feedtruck)
